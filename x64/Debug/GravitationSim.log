@@ -1,0 +1,4 @@
+﻿  SimPhysics.cpp
+C:\Users\c32\source\repos\GravitationSim\GravitationSim\SimPhysics.cpp(9,21): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\c32\source\repos\GravitationSim\GravitationSim\SimPhysics.cpp(130,23): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  GravitationSim.vcxproj -> C:\Users\c32\source\repos\GravitationSim\x64\Debug\GravitationSim.exe
